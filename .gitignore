@@ -22,6 +22,8 @@ __pycache__/
 *.xlsx
 *.xls
 *.json
+*.lock
+*.toml
 
 # Caso seus dados estejam em pasta específica
 data/
