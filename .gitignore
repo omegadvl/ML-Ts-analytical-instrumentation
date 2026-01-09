@@ -1,0 +1,41 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Dados (NÃO versionar)
+# ========================
+*.csv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.json
+
+# Caso seus dados estejam em pasta específica
+data/
+data/raw/
+data/processed/
+data/external/
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# OS
+# ========================
+.DS_Store
+Thumbs.db
